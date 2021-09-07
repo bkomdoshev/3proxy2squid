@@ -1,5 +1,5 @@
 # 3proxy2squid
-##Script for convert 3proxy users list with plain password to encrypted squid users list
+##Script for convert 3proxy users list with plain password to squid users list with encrypted passwords
 
 #!/bin/sh
 
